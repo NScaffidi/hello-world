@@ -1,2 +1,3 @@
 # hello-world
-First repository of hopefully many
+Hello!
+I don't really have any idea what I'm doing yet. 
